@@ -1,0 +1,101 @@
+#Title {
+  color:White;
+  font-size: 45px;
+  background-color:#D1D0CE;
+  border:5px solid black;
+  text-align:center;
+  margin:auto;
+  font-family:cursive;
+}
+
+#Links {
+  Color:black;
+  background-color:#D1D0CE;
+  width:150px;
+  border:3px solid black;
+}
+
+li {
+  text-decoration:none;
+  color:white;
+}
+
+a:link {
+  border:2px solid black;
+  background-color:#D1D0CE;
+  color:blue;
+  text-decoration:none;
+}
+
+a:visited {
+  color:purple;
+  border:2px solid black;
+}
+
+#html {
+  color:white;
+  font-size:30px;
+  margin-left:550px;
+  margin-top:15px;
+  font-family:cursive;
+}
+
+#sumhtml {
+  color:white;
+  font-size:20px;
+  height:30px;
+  width:600px;
+  text-align:center;
+  margin-left:370px;
+}
+
+#css {
+  color:white;
+  font-size:30px;
+  font-family:cursive;
+  margin-left:530px;
+  margin-top:50px;
+}
+
+#sumcss {
+  color:white;
+  font-size:20px;
+  height:30px;
+  width:600px;
+  text-align:center;
+  margin-left:370px;
+}
+
+#tags {
+  color:white;
+  font-size:30px;
+  margin-left:650px;
+  margin-top:15px;
+  font-family:cursive;
+}
+
+#sumtags {
+  color:white;
+  font-size:20px;
+  height:30px;
+  width:600px;
+  text-align:center;
+  margin-left:370px;
+}
+
+#attributes {
+  color:white;
+  font-size:30px;
+  margin-left:650px;
+  margin-top:150px;
+  font-family:cursive;
+}
+
+#sumattributes {
+  color:white;
+  font-size:20px;
+  height:30px;
+  width:600px;
+  text-align:center;
+  margin-left:370px;
+}

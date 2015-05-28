@@ -1,0 +1,94 @@
+#Title {
+  font-size:50px;
+  color:White;
+  Border:4px solid white;
+  background-color:yellow;
+  text-align:center;
+  font-family:cursive;
+  Margin:auto;
+}
+
+#Links {
+  Color:yellow;
+  font-size:25px;
+  Margin-top:0px;
+  font-family:cursive;
+}
+#List {
+  Color:yellow;
+  font-size:30px;
+  Margin-top: 150px;
+}
+
+li {
+  Margin-top:10px;
+  Color:yellow;
+  font-size:20px;
+}
+
+a:link {
+  color:yellow;
+  border:2px solid yellow;
+  border-radius:25%;
+  text-decoration:none;
+}
+
+a:visited {
+  color:#151B54;
+}
+
+#Motherboard {
+  color:yellow;
+  font-size:30px;
+  font-family:cursive;
+  Margin-top:200px;
+}
+
+#MOBOsum {
+  color:yellow;
+  font-size:20px;
+}
+
+#CPU {
+  color:yellow;
+  font-size:30px;
+  font-family:cursive;
+}
+
+#CPUsum {
+  color:yellow;
+  font-size:20px;
+}
+
+#RAM {
+ color:yellow;
+  font-size:30px;
+  font-family:cursive;
+}
+
+#RAMsum {
+ color:yellow;
+  font-size:20px;
+}
+
+#HD  {
+  color:yellow;
+  font-size:30px;
+  font-family:cursive;
+}
+
+#HDsum {
+  color:yellow;
+  font-size:20px;
+}
+
+#Peripherals {
+  color:yellow;
+  font-size:30px;
+  font-family:cursive;
+}
+
+#Psum {
+ color:yellow;
+  font-size:20px;
+}

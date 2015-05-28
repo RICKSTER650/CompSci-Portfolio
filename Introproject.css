@@ -1,0 +1,70 @@
+#Title {
+  font-size:50px;
+  color:White;
+  Border:4px solid white;
+  background-color:blue;
+  text-align:center;
+  font-family:cursive;
+  Margin:auto;
+}
+
+#Links {
+  Color:White;
+  font-size:25px;
+  Margin-top:0px;
+  font-family:cursive;
+}
+
+li {
+  Margin-top:10px;
+  Color:White;
+  font-size:20px;
+}
+
+a:link {
+  color:White;
+  background-color:#2B65EC;
+  border:2px solid White;
+  border-radius:25%;
+  text-decoration:none;
+}
+
+a:visited {
+  color:#151B54;
+}
+
+#Summary {
+  color:White;
+  font-size:40px;
+  font-family:cursive;
+  margin-top:-50px;
+  margin-left:500px;
+}
+
+#Description {
+  Color: White;
+  width:650px;
+  text-align:center;
+  font-size:25px;
+  margin-top:50px;
+  margin-left:300px;
+}
+
+table {
+  color:white;
+  border:blue;
+  margin-left:220px;
+}
+
+#OList {
+  margin-left:1150px;
+}
+
+#OL {
+  margin-top:0px;
+  margin-left:1070px;
+  color:White;
+  font-size:20px;
+  text-align:center;
+  font-family:cursive;
+}

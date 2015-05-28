@@ -1,0 +1,74 @@
+#title {
+  color:white;
+  border:2px solid white;
+  border-radius:50%;
+  text-align:center;
+  font-size:50px;
+  margin:auto;
+  background-color:blue;
+  font-family:cursive;
+}
+
+#links {
+  Color:white;
+  font-size:20px;
+  float:left;
+  margin-top:12px;
+  border:2px solid white;
+  border-radius:0%;
+  background-color:red;
+}
+
+ul li {
+  font-size:20px;
+  margin-top:0px;
+  margin-left:10px;
+  float:left;
+}
+
+a:link {
+  text-decoration:none;
+  color:white;
+  border:2px solid white;
+  border-radius:50%;
+  background-color:red;
+}
+
+a:visited {
+  background-color:purple;
+  border-radius:0%;
+  color:white;
+}
+
+#me {
+  font-size:30px;
+  color:white;
+  margin:auto;
+  margin-top:130px;
+  text-align:center;
+  font-family:cursive;
+}
+
+#summary {
+  font-size:30px;
+  color:White;
+  width:800px;
+  height:50px;
+  text-align:center;
+  margin-left:250px;
+}
+
+#Interests {
+  font-size:30px;
+  color:white;
+}
+
+ol li {
+  color:white;
+  margin-top:20px;
+}
+
+td p {
+  color:white;
+  font-size:25px;
+}
